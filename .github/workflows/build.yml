@@ -36,7 +36,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@bbdfb200618d235585ad98e965f4aafc39b4c501
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          external_repository: lucasbalancin/jrizzo
+          external_repository: lucasbalancin/jrizzo.github.io
           publish_branch: main
           publish_dir: ./_build
           # Only keep the latest commit to avoid bloating the repository
