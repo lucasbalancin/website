@@ -6,9 +6,7 @@ banner_position: top right
 banner_subtitle: |
   <span class="nowrap">Microbiologist •</span>
   <span class="nowrap">Scientist •</span>
-  <span class="nowrap">Beginner as watercolorist •</span>
-  <span class="nowrap">Interested in photography•</span>
-  <span class="nowrap">Sings as leisure</span>
+  <span class="nowrap">Watercolorist •</span>
   <span class="nowrap">Colorful as I am</span>
 template: base.html
 ---
