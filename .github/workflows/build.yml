@@ -25,7 +25,7 @@ jobs:
       - name: Build the website
         run: nene
 
-      - name: Add extra files for GitHub pages
+      - name: Add extra files for GitHub page
         run: |
           touch _build/.nojekyll
           echo "www.jrizzo.me" > _build/CNAME
