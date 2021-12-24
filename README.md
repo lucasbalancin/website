@@ -3,7 +3,7 @@
 [![build-html](https://github.com/leouieda/website/workflows/build-html/badge.svg?event=push)](https://github.com/leouieda/website/actions?query=workflow%3Abuild-html)
 
 This is the source code for my personal site
-[leouieda.com](http://www.leouieda.com).
+[jrizzo.me](http://www.jrizzo.me).
 
 ## Dependencies
 
