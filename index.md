@@ -29,7 +29,7 @@ template: base.html
 </div>
 <div class="col-9 col-sm-4">
 
-<img src="./images/selfie_ju.png" alt="Photo of me from 2021" class="headshot mb-4">
+<img src="https://raw.githubusercontent.com/lucasbalancin/website/main/images/selfie_ju.png" alt="Photo of me from 2021" class="headshot mb-4">
 
 </div>
 </div>
