@@ -1,28 +1,26 @@
 # Main site info
-author: Leonardo Uieda
-url: "https://www.leouieda.com"
-site_name: Leonardo Uieda
-site_description: Geophysicist, scientist, programmer, teacher
-brand: LEONARDO UIEDA
+author: Juliana Rizzo
+url: "https://www.jrizzo.science"
+site_name: Juliana Rizzo
+site_description: Microbiologist, watercolorist, photographer, fungi-lover
+brand: JULIANA RIZZO
 language: en
-keywords: 'science, geoscience, geophysics, software, open-source'
-repository: leouieda/website
+keywords: 'science, microbiologist, fungi, cryptococcus'
+repository: lucasbalancin/website
 repository_branch: main
-favicon: images/favicon.png
+favicon: images/favicon-32x32.png
 thumbnail: images/thumbnail/default.png
 license_notice: |
   Except where noted, all content is licensed
   <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a>
 
 # Social media
-twitter: leouieda
-github: leouieda
-linkedin: https://www.linkedin.com/in/uieda
-youtube: https://www.youtube.com/LeonardoUieda
-orcid: 0000-0001-6123-9515
-researchgate: https://www.researchgate.net/profile/Leonardo-Uieda
-googlescholar: http://scholar.google.com/citations?user=qfmPrUEAAAAJ
-publons: https://publons.com/a/1328468/
+twitter: julianarizzophd
+linkedin: https://www.linkedin.com/in/juliana-rizzo/
+orcid: 0000-0001-5538-6471
+researchgate: https://www.researchgate.net/profile/Juliana-Rizzo
+googlescholar: https://scholar.google.com.ar/citations?user=Of1hwrAAAAAJ
+pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=(Juliana+Rizzo[Author])
 
 # Menu
 navigation:
