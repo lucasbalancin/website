@@ -1,6 +1,6 @@
 ---
 custom_page_title: Juliana Rizzo
-banner_image: images/rainbow_fall.jpg
+banner_image: images/rainbow_fall.JPG
 banner_title: 👋🏽 Olá! I'm Juliana Rizzo
 banner_position: top right
 banner_subtitle: |
