@@ -29,11 +29,13 @@ jobs:
         run: |
           touch _build/.nojekyll
           echo "www.jrizzo.me" > _build/CNAME
-
-      - name: Push to gh-pages
-        uses: peaceiris/actions-gh-pages@8a36f3edfc5d1cbae6b09e6f5a7d7b19e5b7a73b
+          
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: doc/_build/
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: lucasbalancin/lucasbalancin.github.io
+          publish_branch: main
+          publish_dir: ./_build
+          # Only keep the latest commit to avoid bloating the repository
+          force_orphan: true
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
